@@ -25,7 +25,9 @@
 
 ## **How to build mqtt communication**
 
-1. make new Things
+<br>
+
+## **1. make new Things**
 
 ![aws-iot1](https://user-images.githubusercontent.com/41497254/146670679-cb9715f0-408c-46e1-a19d-8ed5502dc82d.png)
 
@@ -46,3 +48,7 @@
 ![aws-iot5](https://user-images.githubusercontent.com/41497254/146670926-79711236-c7de-4161-96e3-cc23fc916efd.png)
 
 - now you have your onw things
+
+<br>
+
+## **2. mqtt.fx client setting**
