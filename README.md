@@ -1,4 +1,4 @@
-# **RasberryPi with AWS IOT**
+# **RaspberryPi with AWS IOT**
 
 #### using AWS IOT, build "mqtt" communtion between Host PC and Pi
 
@@ -16,7 +16,7 @@
     **-geometry** option is Resolution adjustment options.
 
 2. Sign up for aws. [because we use aws IOT service]
-3. Download mqtt.fx [**freeversion**] <https://www.jensd.de/wordpress/?p=2746>
+3. Download mqtt.fx [**free-version**] <https://www.jensd.de/wordpress/?p=2746>
 
 <br>
 
@@ -34,3 +34,7 @@
 
 
 ## **2. mqtt.fx client setting**
+
+<br>
+
+- [how to set up mqtt.fx client]()
