@@ -11,7 +11,7 @@
     1-1. [**Recommend**] When accessing your own pie, use the VNC Viewer. <br>
     1-2. [**Recommend**] After setting up wifi with your router, connect to pi via putty terminal on host pc. After that, by hitting the command below, an ip address that can be accessed by Vnc viewer is generated.
     ```bash
-    vnc server -geometry 1920x1080
+    vncserver -geometry 1920x1080
     ```
     **-geometry** option is Resolution adjustment options.
 
