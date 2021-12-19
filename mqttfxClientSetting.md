@@ -8,7 +8,7 @@
 
 ![aws-iot14](https://user-images.githubusercontent.com/41497254/146680735-010056aa-1269-4bd8-b43a-ec84307bfa72.png)
 
-- you shold fill Profile name, Broker Address[you can find this address on AWS IoT Thing tap], Broker Port and etc.
+- you shold fill Profile name, Broker Address [you can find this address on AWS IoT Thing tap] , Broker Port and etc.
 
 ![aws-iot15](https://user-images.githubusercontent.com/41497254/146680741-e0fc71aa-7296-448c-be77-d7588a54c318.png)
 
