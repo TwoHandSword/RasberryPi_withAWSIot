@@ -51,4 +51,35 @@
 
 <br>
 
+### **1-1. make policy and certificate and then connect with things** 
+
+![aws-iot6](https://user-images.githubusercontent.com/41497254/146671251-cb7c418e-45a3-47c4-9ee4-789ed2e09cfa.png)
+
+- 
+
+![aws-iot7](https://user-images.githubusercontent.com/41497254/146671430-914cda21-383b-4449-973c-1d9bd15dae81.png)
+
+- 
+
+![aws-iot8](https://user-images.githubusercontent.com/41497254/146671443-d411885c-b7f7-40e1-a166-068b5fad8ef7.png)
+
+- 
+
+![aws-iot9](https://user-images.githubusercontent.com/41497254/146671452-cbdc190e-29e0-4d24-9234-0f4c32574346.png)
+
+- 
+
+![aws-iot10](https://user-images.githubusercontent.com/41497254/146671460-3ad3a8b6-6dec-4d4f-ba33-c169d95dd106.png)
+
+- 
+
+![aws-iot11](https://user-images.githubusercontent.com/41497254/146671638-f671b543-45c5-47f6-be72-d892edd9b1dc.png)
+
+- 
+
+![aws-iot12](https://user-images.githubusercontent.com/41497254/146671655-26523b97-dca8-48dc-b456-4cebe95088f8.png)
+
+- 
+
+
 ## **2. mqtt.fx client setting**
