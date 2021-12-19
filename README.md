@@ -32,6 +32,5 @@
 - [how to make your own new things](makeNewThings.md)
 
 
-<br>
 
 ## **2. mqtt.fx client setting**
