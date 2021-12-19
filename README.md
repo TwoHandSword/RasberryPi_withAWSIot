@@ -3,8 +3,7 @@
 #### using AWS IOT, build "mqtt" communtion between Host PC and Pi
 
 <br>
-<br>
-<br>
+
 
 ## **pre-work**
 
