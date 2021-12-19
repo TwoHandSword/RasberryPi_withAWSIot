@@ -19,12 +19,10 @@
 3. Download mqtt.fx [**freeversion**] <https://www.jensd.de/wordpress/?p=2746>
 
 <br>
-<br>
-<br>
+
 
 ## **How to build mqtt communication**
 
-<br>
 
 ## **1. make new Things**
 
