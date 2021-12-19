@@ -44,3 +44,13 @@
 <br>
 
 - [how to wirte mqtt.py and run on Pi](makeMqttScript.md)
+
+<br>
+
+## **What we're going to do [Plan]**
+
+<br>
+
+1. make Web app using React.js
+
+2. and then connect Pi, ST micom and Web app using mqtt communication
