@@ -53,3 +53,4 @@
 ![aws-iot12](https://user-images.githubusercontent.com/41497254/146671655-26523b97-dca8-48dc-b456-4cebe95088f8.png)
 
 - click "Actions" and linking policy and things
+- click "Download" then you can get .crt file 
