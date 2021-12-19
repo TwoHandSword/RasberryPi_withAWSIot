@@ -37,4 +37,4 @@
 
 <br>
 
-- [how to set up mqtt.fx client]()
+- [how to set up mqtt.fx client](mqttfxClientSetting.md)
