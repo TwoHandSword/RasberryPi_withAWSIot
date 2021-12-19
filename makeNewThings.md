@@ -28,28 +28,28 @@
 
 ![aws-iot6](https://user-images.githubusercontent.com/41497254/146671251-cb7c418e-45a3-47c4-9ee4-789ed2e09cfa.png)
 
-- 
+- push Create
 
 ![aws-iot7](https://user-images.githubusercontent.com/41497254/146671430-914cda21-383b-4449-973c-1d9bd15dae81.png)
 
-- 
+- select "One-click certificate creation"
 
 ![aws-iot8](https://user-images.githubusercontent.com/41497254/146671443-d411885c-b7f7-40e1-a166-068b5fad8ef7.png)
 
-- 
+- Download all of them and click "A root CA for AWS IoT"
 
 ![aws-iot9](https://user-images.githubusercontent.com/41497254/146671452-cbdc190e-29e0-4d24-9234-0f4c32574346.png)
 
-- 
+- Download "RSA 2048 bit key" and "RSA 4096 bit key"
 
 ![aws-iot10](https://user-images.githubusercontent.com/41497254/146671460-3ad3a8b6-6dec-4d4f-ba33-c169d95dd106.png)
 
-- 
+- push Create
 
 ![aws-iot11](https://user-images.githubusercontent.com/41497254/146671638-f671b543-45c5-47f6-be72-d892edd9b1dc.png)
 
-- 
+- typing Policy name
 
 ![aws-iot12](https://user-images.githubusercontent.com/41497254/146671655-26523b97-dca8-48dc-b456-4cebe95088f8.png)
 
-- 
+- click "Actions" and linking policy and things
