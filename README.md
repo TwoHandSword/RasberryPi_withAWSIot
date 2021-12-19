@@ -33,8 +33,14 @@
 
 
 
-## **2. mqtt.fx client setting**
+## **2. mqtt.fx client setting and make "mqtt" com in PC**
 
 <br>
 
-- [how to set up mqtt.fx client](mqttfxClientSetting.md)
+- [how to set up mqtt.fx client and run mqtt com in PC](mqttfxClientSetting.md)
+
+## **3. make mqtt setting script and run on RaspberryPi**
+
+<br>
+
+- [how to wirte mqtt.py and run on Pi](makeMqttScript.md)
